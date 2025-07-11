@@ -1,4 +1,4 @@
-package com.example.nishantpuria.bank.controller.utils;
+package com.example.nishantpuria.bank.utils;
 
 import java.util.stream.IntStream;
 

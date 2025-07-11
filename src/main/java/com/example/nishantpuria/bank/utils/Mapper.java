@@ -1,4 +1,4 @@
-package com.example.nishantpuria.bank.controller.utils;
+package com.example.nishantpuria.bank.utils;
 
 import com.example.nishantpuria.bank.api.request.CreateBankAccountRequest;
 import com.example.nishantpuria.bank.api.request.CreateTransactionRequest;
@@ -16,7 +16,7 @@ import com.example.nishantpuria.bank.model.type.TransactionType;
 import java.time.Instant;
 import java.util.List;
 
-import static com.example.nishantpuria.bank.controller.utils.Formatter.*;
+import static com.example.nishantpuria.bank.utils.Formatter.*;
 
 public class Mapper {
 
